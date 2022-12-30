@@ -1,0 +1,10 @@
+git status  : Kiểm tra trạng thái của src (add/update/delete)
+
+git add  L Ghi nhớ các trạng thái sửa đổi trong status
+
+git commit -m "Message"  :  Xác nhận sửa đổi, có ghi chú theo Message, Note: chỉ "commit" các file đã được "add"
+
+git push  :  Đẩy các file đã "commit" lên gitlab
+
+hello
+
